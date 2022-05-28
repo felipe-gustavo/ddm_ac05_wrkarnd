@@ -1,0 +1,8 @@
+# Environment
+.env
+
+# Docker
+.docker
+
+# Python
+__pycache__
